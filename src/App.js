@@ -15,7 +15,6 @@ import CovidData from './component/CovidData';
 function App() {
   return (
     <>
-    
       <div className='container-fluid'>
         <div className="row">
           <div className="col-lg-12 p-0">
