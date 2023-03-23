@@ -1,0 +1,14 @@
+*{font-family: 'Roboto', sans-serif;}
+.greetings_sec{background-color: #e7e7e7;width: 100%;padding: 23% 0;text-align: center;}
+.greetings_sec h2{ font-size: 30px; color: black; background-color: #7f7f7f; padding: 50px 100px; display: inline-block; border-radius:50px ; -webkit-border-radius:50px ; -moz-border-radius:50px ; -ms-border-radius:50px ; -o-border-radius:50px ; }
+.slot_design {width: 100%;padding: 10px 0 0 0; margin: 0 auto; border: 1px solid #f7f7f7; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; text-align: center;background-color: #e7e7e7;}
+hr {margin: 0rem 0;}
+
+.slotmachmain {
+    background: #ef7c7c;
+    padding: 50px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
