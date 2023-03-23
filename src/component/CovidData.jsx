@@ -38,6 +38,7 @@ const CovidData = () => {
                                 <td>{val.active}</td>
                                 <td>{val.lastupdatedtime}</td>
                             </tr>
+                            
                         )
                     })}
                 </tbody>
